@@ -40,7 +40,7 @@ Clean Layout: Professionally designed dashboard layout for clear readability and
 ## 🌟 Why This Project Stands Out
 
 ### 1️⃣ Real-World Application:
-The dashboard solves a common business problem — tracking and analyzing sales performance — making it highly practical and relevant for stakeholders like sales managers, executives, and analysts.
+- **The dashboard solves a common business problem — tracking and analyzing sales performance — making it highly practical and relevant for stakeholders like sales managers, executives, and analysts**.
 
 ### 2️⃣Interactivity & Usability:
 Unlike static reports, this dashboard includes interactive slicers and filters, enabling users to explore the data dynamically without needing technical skills.
