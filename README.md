@@ -13,3 +13,22 @@ Slicers & Filters: Added interactive slicers to enable dynamic filtering by Mont
 KPIs Tracked: Total Revenue, Total Units Sold, Top Products, Top Salespersons, and Regional Performance.
 
 Design: Clean and professional layout with color-coded charts and conditional formatting for quick insights.
+
+
+Interactive Dashboard: Allows users to filter and explore sales data by Region, Salesperson, Product, and Month using slicers and drop-downs.
+
+Data Visualization: Includes pivot charts and conditional formatting to highlight trends and outliers in revenue and sales volume.
+
+### Performance Metrics Tracked:
+
+Total Revenue
+
+Quantity Sold
+
+Best-Performing Products
+
+Top Salespersons
+
+Regional Sales Comparison
+
+Clean Layout: Professionally designed dashboard layout for clear readability and insights at a glance.
