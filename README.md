@@ -3,7 +3,6 @@
 ## 🚀 Project Overview
 In this project, I developed a **comprehensive Sales Dashboard using Microsoft Excel to track and visualize key sales metrics**. The dashboard is designed to provide an **intuitive and interactive view of sales performance across various dimensions**.
 
-
 ## 📌Key Features:
 
 - **Data Sources:** Clean and structured data for **Salesperson, Region, Product, Month, Quantity Sold,** and **Revenue**.
@@ -21,20 +20,13 @@ In this project, I developed a **comprehensive Sales Dashboard using Microsoft E
 - **Data Visualization:** Includes **pivot charts** and **conditional formatting to highlight trends** and outliers in revenue and sales volume.
 
 - **Performance Metrics Tracked:**
-
 - Total Revenue
-
 - Quantity Sold
-
 - Best-Performing Products
-
 - Top Salespersons
-
 - Regional Sales Comparison
 
 - **Clean Layout:** Professionally designed dashboard layout for clear readability and insights at a glance.
-
-
 
 ## 🌟 Why This Project Stands Out
 
