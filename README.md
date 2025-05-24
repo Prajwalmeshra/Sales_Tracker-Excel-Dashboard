@@ -41,17 +41,28 @@ In this project, I developed a **comprehensive Sales Dashboard using Microsoft E
 ### 1️⃣ Real-World Application:
 - **The dashboard solves a common business problem — tracking and analyzing sales performance — making it highly practical and relevant for stakeholders like sales managers, executives, and analysts**.
 
-### 2️⃣Interactivity & Usability:
+### 2️⃣ Interactivity & Usability:
 - **Unlike static reports, this dashboard includes interactive slicers and filters, enabling users to explore the data dynamically without needing technical skills**.
 
-### 3️⃣Data-Driven Storytelling:
+### 3️⃣ Data-Driven Storytelling:
 - **It doesn’t just present numbers — it tells a story by visually highlighting key trends, top performers, and areas needing improvement, helping decision-makers take action quickly**.
 
-### 4️⃣Professional Design:
+### 4️⃣ Professional Design:
 - **Clean layout, thoughtful color use, and consistent formatting make the dashboard visually appealing and easy to interpret — a mark of quality in real-world reporting**.
 
-### 5️⃣Excel Mastery:
+### 5️⃣ Excel Mastery:
 - **Demonstrates strong command over advanced Excel features like PivotTables, PivotCharts, formulas (e.g., SUMIFS, COUNTIFS), and conditional formatting, showing your skill in business intelligence without needing complex tools**.
 
-### 6️⃣Performance Insight:
+### 6️⃣ Performance Insight:
 - **Includes key performance indicators (KPIs) that offer instant insights into sales health, making it valuable as a management reporting tool**.
+
+## 🧰 **Tools & Techniques:**
+- ### **Microsoft Excel**
+
+- ### **Pivot Tables & Pivot Charts**
+
+- ### **Slicers**
+
+- ### **SUMIFS, COUNTIFS, and other Excel formulas**
+
+- ### **Conditional Formatting**
