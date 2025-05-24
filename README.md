@@ -49,12 +49,15 @@ In this project, I developed a **comprehensive Sales Dashboard using Microsoft E
 - **Includes key performance indicators (KPIs) that offer instant insights into sales health, making it valuable as a management reporting tool**.
 
 ## 🧰 **Tools & Techniques:**
-- ### **Microsoft Excel**
+- #### **Microsoft Excel**
 
-- ### **Pivot Tables & Pivot Charts**
+- #### **Pivot Tables & Pivot Charts**
 
-- ### **Slicers**
+- #### **Slicers**
 
-- ### **SUMIFS, COUNTIFS, and other Excel formulas**
+- #### **SUMIFS, COUNTIFS, and other Excel formulas**
 
-- ### **Conditional Formatting**
+- #### **Conditional Formatting** <br />
+
+## 📸 **Screenshots & Visuals**
+![Sales Tracker Excel Dashboard](https://github.com/user-attachments/assets/889e2766-3aec-4720-ab8f-5ef7820040d5)
