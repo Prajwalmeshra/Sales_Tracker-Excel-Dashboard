@@ -20,11 +20,11 @@ In this project, I developed a **comprehensive Sales Dashboard using Microsoft E
 - **Data Visualization:** Includes **pivot charts** and **conditional formatting to highlight trends** and outliers in revenue and sales volume.
 
 - **Performance Metrics Tracked:**
-- Total Revenue
-- Quantity Sold
-- Best-Performing Products
-- Top Salespersons
-- Regional Sales Comparison
+  - Total Revenue
+  - Quantity Sold
+  - Best-Performing Products
+  - Top Salespersons
+  - Regional Sales Comparison
 
 - **Clean Layout:** Professionally designed dashboard layout for clear readability and insights at a glance.
 
